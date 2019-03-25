@@ -1,6 +1,6 @@
 
 body {
-  background-color: #d0e4fe;
+  background-color: #51f803;
   text-align: center;
 }
 
@@ -14,7 +14,8 @@ p {
   font-size: 30px;
 }
 
-#doge-image img {
-  height: 140px;
+#maldonado-image img {
+  height: 100px;
   margin-top: 20px;
+
 }
